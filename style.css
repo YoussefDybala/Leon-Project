@@ -333,13 +333,13 @@ position: relative;
             }
             @media  (max-width: 767px) {
                 .contact-content h3 {
-                    font-size: 19px;
+                    font-size: 20px;
                 }
             }
             .contact-content h2 {
                 margin: 10px auto;
                 text-align: center;
-                font-size: 14px; 
+                font-size: 15px; 
                 letter-spacing: 2px;
             }
             .contact-content span {
